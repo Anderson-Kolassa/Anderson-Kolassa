@@ -1,7 +1,7 @@
 ## Olá, me chamo Anderson Kolassa
 
 
-- 🔭 Estou trabalhando em Conservas Oderich S.A;
+- 🔭 Estou trabalhando em Agrosul Foods;
 - 🌱 Hoje estou estudando JavaScript, React, NodeJS, MongoDB, Sass, Bootstrap, TypeScript;
 
 <div align="center">
