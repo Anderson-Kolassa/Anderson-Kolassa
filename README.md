@@ -1,7 +1,7 @@
 ## Olá, me chamo Anderson Kolassa
 
 
-- 🔭 Estou trabalhando em Agrosul Foods;
+- 🔭 Estou trabalhando em Sige Cloud como Analista de Suporte;
 - 🌱 Hoje estou estudando JavaScript, React, NodeJS, MongoDB, Sass, Bootstrap, TypeScript;
 
 <div align="center">
